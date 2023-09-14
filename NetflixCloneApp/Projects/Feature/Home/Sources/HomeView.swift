@@ -20,9 +20,3 @@ public struct HomeView: View {
     
     public init() {}
 }
-
-public struct HomeViewPreviews:PreviewProvider {
-    public static var previews: some View {
-        HomeView()
-    }
-}
